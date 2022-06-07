@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../../zb_system"
+    }
+  ],
+  "settings": {
+    "intelephense.environment.includePaths": [
+      "../../../zb_system"
+    ]
+  }
+}
